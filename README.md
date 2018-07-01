@@ -1,2 +1,2 @@
 # MyImage
-out file picture
+作为图床使用
